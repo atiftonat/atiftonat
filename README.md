@@ -6,8 +6,8 @@ Software Developer
 
 I first discovered software development at a summer course for introductory python and web development. My intrigue led me to pursue a certificate IV, where that intrigue evolved into a full-blown passion. Most recently, I have completed a diploma of software development where I undertook a major group project for a restaurant management system. The development process provided me with countless invaluable skills, ranging from the nuances of peer programming to the inner workings of ASP.NET, Entity Framework, Web APIs and React.
 
-* 🌍  Based in Sydney
-* 🚀  Major project: [Restaurant Reservation System](http://github.com/Mason-D/RRS.git)
+🌍  Based in Sydney
+🚀  Major project: [Restaurant Reservation System](http://github.com/Mason-D/RRS.git)
 
 ### Skills
 
@@ -22,5 +22,5 @@ I first discovered software development at a summer course for introductory pyth
 </pre>
 ### Socials
 You can contact me at at:
-* ✉️ [atifonat@gmail.com](mailto:atifonat@gmail.com)
-* LinkedIn&nbsp;<a href="https://www.linkedin.com/in/atif-onat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+✉️ [atifonat@gmail.com](mailto:atifonat@gmail.com)
+<a href="https://www.linkedin.com/in/atif-onat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;LinkedIn
