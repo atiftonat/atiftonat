@@ -7,7 +7,6 @@ Software Developer
 I first discovered software development at a summer course for introductory python and web development. My intrigue led me to pursue a certificate IV, where that intrigue evolved into a full-blown passion. Most recently, I have completed a diploma of software development where I undertook a major group project for a restaurant management system. The development process provided me with countless invaluable skills, ranging from the nuances of peer programming to the inner workings of ASP.NET, Entity Framework, Web APIs and React.
 
 * 🌍  I'm based in Sydney
-* ✉️  You can contact me at [atifonat@gmail.com](mailto:atifonat@gmail.com)
 * 🚀  I'm currently working on [Restaurant Reservation System](http://github.com/Mason-D/RRS.git)
 
 ### Skills
@@ -26,10 +25,7 @@ JavaScript<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" targ
 </p>
 
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/atiftonat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/atif-onat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/atiftonat"><img src="https://github-readme-stats.vercel.app/api?username=atiftonat&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="atiftonat's GitHub stats" /></a>
+You can contact me at at:
+* ✉️ [atifonat@gmail.com](mailto:atifonat@gmail.com)
+* <a href="https://www.github.com/atiftonat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+* <a href="https://www.linkedin.com/in/atif-onat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
