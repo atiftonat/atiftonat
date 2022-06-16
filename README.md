@@ -22,6 +22,6 @@ I first discovered software development at a summer course for introductory pyth
 ### Socials
 You can contact me at:</br>
 ✉️ [atifonat@gmail.com](mailto:atifonat@gmail.com)</br>
-<a href="https://www.linkedin.com/in/atif-onat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;LinkedIn</br>
-✉️ [https://www.linkedin.com/in/atif-onat/]</br>
+<a href="https://www.linkedin.com/in/atif-onat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="8" height="8" />
+[LinkedIn](https://www.linkedin.com/in/atif-onat/)
 
