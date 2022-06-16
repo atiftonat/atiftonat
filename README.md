@@ -4,7 +4,7 @@ Hi 👋 My name is Atif Onat
 Software Developer
 ------------------
 
-I first discovered software development at a summer course for introductory python and web development. My intrigue led me to pursue a certificate IV, where that intrigue evolved into a full-blown passion. Most recently, I have completed a diploma of software development where I undertook a major group project for a restaurant management system. The development process provided me with countless invaluable skills, ranging from the nuances of peer programming to the inner workings of ASP.NET, Entity Framework, Web APIs and React.
+I first discovered software development at a summer course for introductory python and web development. My intrigue led me to pursue a certificate IV, where that intrigue evolved into a full-blown passion. Most recently, I have completed a diploma of software development where I undertook a major group project for a restaurant management system. The development process provided me with countless invaluable skills, ranging from the nuances of peer programming to the inner workings of ASP.NET MVC, Entity Framework, Web APIs and React.
 
 🌍  Based in Sydney</br>
 🚀  Major project: [Restaurant Reservation System](http://github.com/Mason-D/RRS.git)</br>
