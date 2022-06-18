@@ -7,8 +7,8 @@ Software Developer
 I first discovered software development at a summer course for introductory python and web development. My intrigue led me to pursue a certificate IV, where that intrigue evolved into a full-blown passion. Most recently, I have completed a diploma of software development where I undertook a major group project for a restaurant management system. The development process provided me with countless invaluable skills, ranging from the nuances of peer programming to the inner workings of ASP.NET MVC, Entity Framework, Web APIs and React.
 
 🌍  Based in Sydney</br>
-🚀  Major project: [Restaurant Reservation System](http://github.com/Mason-D/RRS.git)</br>
-🚀  Additional repos publicly available on my profile. Includes: native app for Restaurant Reservation System and a React.js NoteApp 'Leaf Notes'.
+🚀  Major project: [Restaurant Reservation System (RRS)](https://github.com/atiftonat/RRS)</br>
+🚀  Additional projects: [RRS Native App](https://github.com/atiftonat/rrs_native) & [React.js NoteApp 'Leaf Notes'](https://github.com/atiftonat/leaf-notes).
 
 ### Skills
 <pre>
