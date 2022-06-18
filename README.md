@@ -8,6 +8,7 @@ I first discovered software development at a summer course for introductory pyth
 
 🌍  Based in Sydney</br>
 🚀  Major project: [Restaurant Reservation System](http://github.com/Mason-D/RRS.git)</br>
+🚀  Additional repos publicly available on my profile. Includes: native app for Restaurant Reservation System and a React.js NoteApp 'Leaf Notes'.
 
 ### Skills
 <pre>
