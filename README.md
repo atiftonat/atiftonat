@@ -9,7 +9,7 @@ I first discovered software development at a summer course for introductory pyth
 🌍  Based in Sydney</br>
 🚀  Major project: [Restaurant Reservation System (RRS)](https://github.com/atiftonat/RRS)</br>
 🚀  Additional projects: [RRS Native App](https://github.com/atiftonat/rrs_native) & [React.js NoteApp 'Leaf Notes'](https://github.com/atiftonat/leaf-notes).</br>
-🚀  Design portfolio: [UI/UX design](https://github.com/atiftonat/Design-Portfolio)</br>
+🚀  Design portfolio: [UI/UX design]([https://github.com/atiftonat/Design-Portfolio](https://github.com/atiftonat/Design-Portfolio/blob/main/Atif-Design-Portfolio.pdf))</br>
 
 ### Skills
 <pre>
