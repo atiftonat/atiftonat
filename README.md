@@ -4,12 +4,12 @@ Hi 👋 My name is Atif Onat
 Software Developer
 ------------------
 
-I first discovered software development at a summer course for introductory python and web development. My intrigue led me to pursue a certificate IV, where that intrigue evolved into a full-blown passion. Most recently, I have ventured into developing in-house web software for Krost Business Furniture with the diploma of software development I attained from Petersham TAFE where I undertook a major group project for a complete restaurant management system. The process provided me with countless invaluable technical skills, ranging from the nuances of peer programming to the inner workings of Javascript, Vue.js, React, ASP.NET MVC, Entity Framework & Web APIs.
+I first discovered software development at a summer course for introductory python and web development. My intrigue led me to pursue a certificate IV, where that intrigue evolved into a full-blown passion. Most recently, I have ventured into developing SaaS products for Companion Systems with .NET. My journey has provided me with countless invaluable technical skills, ranging from the nuances of peer programming to the inner workings of the JavaScript frameworks & the vast world of .NET.
 
 🌍  Based in Sydney</br>
-🚀  Major project: [Restaurant Reservation System (RRS)](https://github.com/atiftonat/RRS)</br>
-🚀  Additional projects: [RRS Native App](https://github.com/atiftonat/rrs_native) & [React.js NoteApp 'Leaf Notes'](https://github.com/atiftonat/leaf-notes).</br>
-🚀  Design portfolio: [UI/UX design](https://github.com/atiftonat/Design-Portfolio/blob/main/Atif-Design-Portfolio.pdf)</br>
+🚀  Showcase project: [Discount Dora](https://github.com/BenTalese/DiscountDora)</br>
+🚀  Additional projects: [Restaurant Reservation System (RRS)](https://github.com/atiftonat/RRS)</br>
+<!-- 🚀  Design portfolio: [UI/UX design](https://github.com/atiftonat/Design-Portfolio/blob/main/Atif-Design-Portfolio.pdf)</br> -->
 
 ### Skills
 <pre>
